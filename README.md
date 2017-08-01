@@ -52,21 +52,21 @@ Now you have all of your work, plus all of your teammate's approved work on one 
 
 The team's product page will be driven from JavaScript code. Decide on the names of, at least, 8 products that your business manufactures. The product page must have a linked JavaScript file.
 
-[] Create an array to hold your products.
-[] Each item in the array must be an object that contains the following information: name, description, price, and URL for product image. You can add more properties if that's what the team wants, but it must have those.
-[] The team will use JavaScript to add each product to the DOM.
-[] Each product must be a card, much like everyone made in the Static Web quiz. As a team, decide on the style of the card.
-[] The layout of the product page should be a grid of cards. 3-wide, 4-wide, 5-wide, the teams must decide how many cards are on each row.
+- [ ] Create an array to hold your products.
+- [ ] Each item in the array must be an object that contains the following information: name, description, price, and URL for product image. You can add more properties if that's what the team wants, but it must have those.
+- [ ] The team will use JavaScript to add each product to the DOM.
+- [ ] Each product must be a card, much like everyone made in the Static Web quiz. As a team, decide on the style of the card.
+- [ ] The layout of the product page should be a grid of cards. 3-wide, 4-wide, 5-wide, the teams must decide how many cards are on each row.
 
 ### Employee page
 
-[] Create an array of 3 employees. Each employee should be an object. The object should have at least 4 key/value pairs: 
+- [ ] Create an array of 3 employees. Each employee should be an object. The object should have at least 4 key/value pairs: 
     - Employee Name
     - Employee Title
     - Employee Image
     - Employee Bio
-[] Create a function to add a new employee. This function should accept 4 arguments: employee name, employee title, employee image and employee bio. This function should add the employee as an object to the employee array.
-[] Call the createEmployee function twice, adding 2 more unique employees.
-[] Loop through the array of employees and print them to the page. 
-[] The layout of the employee page should be a grid of cards. 3-wide, 4-wide, 5-wide, the teams must decide how many cards are on each row.
+- [ ] Create a function to add a new employee. This function should accept 4 arguments: employee name, employee title, employee image and employee bio. This function should add the employee as an object to the employee array.
+- [ ] Call the createEmployee function twice, adding 2 more unique employees.
+- [ ] Loop through the array of employees and print them to the page. 
+- [ ] The layout of the employee page should be a grid of cards. 3-wide, 4-wide, 5-wide, the teams must decide how many cards are on each row.
 
