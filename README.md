@@ -19,6 +19,10 @@ Each team member is going to be responsible for the content of a different page,
 
 Regardless of what pages each team member works on, each team must have a Products page and an Employee page for their site that the team will collaborate on. See more details about the product page below.
 
+### Teamwork
+
+Create a Project board for your company site and make the columns for ('backlog', 'doing', 'blocked', 'in review', 'done'). Create notes for different units of work, make the notes into issues, and assign it to the team members doing to work. When you are assigned to an issue, make sure that you are moving it over to the right column on the board.
+
 ### Git
 Your team is going to learn how to use git to enable good teamwork when building a software product.
 
